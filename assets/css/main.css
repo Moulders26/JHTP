@@ -1490,7 +1490,7 @@ input, select, textarea {
 	}
 
 		.image:hover {
-			opacity: 0.9;
+			opacity: 0.7;
 		}
 
 		.image img {
@@ -1824,7 +1824,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background: #979797;
+				background: #003fd1;
 			}
 
 			input[type="button"].alt:active,
@@ -2206,7 +2206,7 @@ input, select, textarea {
 		overflow: hidden;
 		border-top: solid 2px #e5e5e5;
 		background: #f0f0f0;
-		padding: 6em 0 8em 0;
+		padding: 4em 0 2em 0;
 	}
 
 		#footer form input[type="text"],
@@ -2234,8 +2234,8 @@ input, select, textarea {
 	#copyright {
 		border-top: solid 2px #e5e5e5;
 		text-align: center;
-		margin-top: 6em;
-		padding-top: 4em;
+		margin-top: 3em;
+		padding-top: 2em;
 	}
 
 /* XLarge */
